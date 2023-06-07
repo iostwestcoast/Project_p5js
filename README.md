@@ -14,7 +14,7 @@ Edit
 https://editor.p5js.org/iostwestcoast/sketches/x0j40FRru
 
 ![Анимация](https://github.com/iostwestcoast/Project_p5js/assets/114690482/b1c4a2b7-b862-4509-b9e9-5d66437f831c)
-
+```JS
 let img;
 let angle = 0;
 let slider;
